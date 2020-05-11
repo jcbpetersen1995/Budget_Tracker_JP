@@ -16,4 +16,6 @@ The user will be able to add expenses and deposits to their budget with or witho
   <li>Enter expenses</li>
   <li>Offline entries should be added to tracker.</li>
 </ul>
+<hr>
+<img src="https://github.com/jcbpetersen1995/Budget_Tracker_JP/blob/master/Screen%20Shot%202020-05-11%20at%2012.03.43%20PM.png?raw=true" alt="screenshot">
 <a href="https://intense-depths-54332.herokuapp.com/">Deploy Application</a>
